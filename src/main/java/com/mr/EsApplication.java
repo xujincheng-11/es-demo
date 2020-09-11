@@ -15,6 +15,6 @@ public class EsApplication {
     public static void main(String[] args) {
         SpringApplication.run(EsApplication.class);//kkkkkkkkkkkkkkkkk
     }
-
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa//
 }
