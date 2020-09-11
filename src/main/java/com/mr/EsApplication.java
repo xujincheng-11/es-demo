@@ -10,12 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Date 2020/8/4
  * @Version V1.0
  **/
-@SpringBootApplication //启动类额鹅鹅鹅11111
+@SpringBootApplication //启动类
 public class EsApplication {
     public static void main(String[] args) {
         SpringApplication.run(EsApplication.class);
-        SpringApplication.run(EsApplication.class);//kkkkkkkkkkkkkkkk
-
-    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa嗯嗯嗯
-    ///导航都会好的
+        SpringApplication.run(EsApplication.class);
+    }
 }
