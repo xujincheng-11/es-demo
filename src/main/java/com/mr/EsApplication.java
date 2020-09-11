@@ -16,6 +16,6 @@ public class EsApplication {
         SpringApplication.run(EsApplication.class);
     }
 
-    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa嗯嗯嗯
     ///导航都会好的
 }
