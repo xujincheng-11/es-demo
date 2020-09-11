@@ -13,8 +13,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication //启动类额鹅鹅鹅111
 public class EsApplication {
     public static void main(String[] args) {
-        SpringApplication.run(EsApplication.class);
+        SpringApplication.run(EsApplication.class);//kkkkkkkkkkkkkkkkk
     }
 
-    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa//
 }
