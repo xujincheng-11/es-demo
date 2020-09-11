@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EsApplication {
     public static void main(String[] args) {
         SpringApplication.run(EsApplication.class);
-        SpringApplication.run(EsApplication.class);//kkkkkkkkkkkkkkkkk
+        SpringApplication.run(EsApplication.class);//kkkkkkkkkkkkkkkk
 
     //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     ///导航都会好的
